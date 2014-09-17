@@ -10,9 +10,11 @@ See https://www.youtube.com/watch?v=BMJyFkuUDO4
 A new version has been requested (by my son) with 4 gates and automated detection of the train passing a specific point
 as well as the existing manual button control.
 
-You will need to download download and install the following for the python gpio module
+You will need to download and install the following for the python gpio module using the following commands:
 
 $sudo apt-get update
-2.$sudo apt-get install python-dev
-3.$sudo apt-get install python-rpi.gpio
+
+$sudo apt-get install python-dev
+
+$sudo apt-get install python-rpi.gpio
 
