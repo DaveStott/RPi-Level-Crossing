@@ -17,3 +17,6 @@ $sudo apt-get install python-dev
 
 $sudo apt-get install python-rpi.gpio
 
+I am pretty new to Python so please excuse any dodgy code and please point out any improvements that could be made.
+
+
