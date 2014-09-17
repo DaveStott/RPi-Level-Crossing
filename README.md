@@ -12,8 +12,6 @@ as well as the existing manual button control.
 
 You will need to download and install the following for the python gpio module using the following commands:
 
-$sudo apt-get update
-
 $sudo apt-get install python-dev
 
 $sudo apt-get install python-rpi.gpio
